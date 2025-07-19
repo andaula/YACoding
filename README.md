@@ -1,4 +1,7 @@
-1 clone the repository
+About this project
+Build "EduConnect" - a simplified learning management system using Filament Laravel (backend) and Expo React Native (mobile app). This challenge tests your ability to create the type of e-learning platforms you'll manage at Young Africa International.
+
+clone the repository
 cd educonnect-backend
  composer install 
 cp .env.example .env  
